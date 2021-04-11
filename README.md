@@ -2,9 +2,9 @@
 
 ### Below are 2 ways to open project locally or from Github:
 
-A) Open project locally.
+**A) Open project locally.**
 
-A1) Open project from Welcome screen of Android Studio:
+**A1) Open project from Welcome screen of Android Studio:**
 
 A1-1) Open Android Studio.
 
@@ -16,7 +16,7 @@ A1-4) While gradle is syncing, a dialog will popup to change path of SDK. Just c
 
 A1-5) After project completes gradle sync and indexing and importing, click on Run > Run 'app'.
 
-A2) Open project from inside Android Studio where other project is already loaded.
+**A2) Open project from inside Android Studio where other project is already loaded.**
 
 A2-1) Open Android Studio.
 
@@ -28,9 +28,9 @@ A2-4) While gradle is syncing, a dialog will popup to change path of SDK. Just c
 
 A2-5) After project completes gradle sync and indexing and importing, click on Run > Run 'app'.
 
-B) Open project from Github:
+**B) Open project from Github:**
 
-B1) Open project from Welcome screen of Android Studio:
+**B1) Open project from Welcome screen of Android Studio:**
 
 B1-1) Open Android Studio.
 
@@ -42,7 +42,7 @@ B1-4) While gradle is syncing, a dialog will popup to change path of SDK. Just c
 
 B1-5) After project completes gradle sync and indexing and importing, click on Run > Run 'app'.
 
-B2) Open project from inside Android Studio where other project is already loaded.
+**B2) Open project from inside Android Studio where other project is already loaded.**
 
 B2-1) Open Android Studio.
 
