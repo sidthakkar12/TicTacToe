@@ -1,4 +1,4 @@
-![Image of Home Screen](/home/hb-android/Desktop/Sid/RyuGames/Files/Screenshots/Home Screen.png)
+![Home Screen](/home/hb-android/Desktop/Sid/RyuGames/Files/Screenshots/HomeScreen.png?raw=true "Optional Title")
 
 
 ### Steps to run in Android Studio:
