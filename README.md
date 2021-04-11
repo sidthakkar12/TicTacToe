@@ -3,34 +3,56 @@
 ### Below are 2 ways to open project locally or from Github:
 
 A) Open project locally.
+
 A1) Open project from Welcome screen of Android Studio:
-	A1-1) Open Android Studio.
-	A1-2) On Welcome screen, Click on File > 'Open an Existing Project', and go the the folder where project is located and click on it.
-	A1-3) Android Studio will download necessary gradle files required to run the app.
-	A1-4) While gradle is syncing, a dialog will popup to change path of SDK. Just click on 'OK' and the path will be changed automatically and project will sync with your localised Android SDK.
-	A1-5) After project completes gradle sync and indexing and importing, click on Run > Run 'app'.
+
+A1-1) Open Android Studio.
+
+A1-2) On Welcome screen, Click on File > 'Open an Existing Project', and go the the folder where project is located and click on it.
+
+A1-3) Android Studio will download necessary gradle files required to run the app.
+
+A1-4) While gradle is syncing, a dialog will popup to change path of SDK. Just click on 'OK' and the path will be changed automatically and project will sync with your localised Android SDK.
+
+A1-5) After project completes gradle sync and indexing and importing, click on Run > Run 'app'.
 
 A2) Open project from inside Android Studio where other project is already loaded.
-    A2-1) Open Android Studio.
-    A2-2) Click on File > Open, and go the the folder where project is located and click on it.
-    A2-3) Android Studio will download necessary gradle files required to run the app.
-    A2-4) While gradle is syncing, a dialog will popup to change path of SDK. Just click on 'OK' and the path will be changed automatically and project will sync with your localised Android SDK.
-    A2-5) After project completes gradle sync and indexing and importing, click on Run > Run 'app'.
+
+A2-1) Open Android Studio.
+
+A2-2) Click on File > Open, and go the the folder where project is located and click on it.
+
+A2-3) Android Studio will download necessary gradle files required to run the app.
+
+A2-4) While gradle is syncing, a dialog will popup to change path of SDK. Just click on 'OK' and the path will be changed automatically and project will sync with your localised Android SDK.
+
+A2-5) After project completes gradle sync and indexing and importing, click on Run > Run 'app'.
 
 B) Open project from Github:
+
 B1) Open project from Welcome screen of Android Studio:
-    B1-1) Open Android Studio.
-    B1-2) On Welcome screen, click on 'Get from Version Control'. Select 'Git' from dropdown, Enter Git URL (https://github.com/sidthakkar12/TicTacToe.git), Select directory path you want to store your project to.
-    B1-3) Android Studio will download necessary gradle files required to run the app.
-    B1-4) While gradle is syncing, a dialog will popup to change path of SDK. Just click on 'OK' and the path will be changed automatically and project will sync with your localised Android SDK.
-    B1-5) After project completes gradle sync and indexing and importing, click on Run > Run 'app'.
+
+B1-1) Open Android Studio.
+
+B1-2) On Welcome screen, click on 'Get from Version Control'. Select 'Git' from dropdown, Enter Git URL (https://github.com/sidthakkar12/TicTacToe.git), Select directory path you want to store your project to.
+
+B1-3) Android Studio will download necessary gradle files required to run the app.
+
+B1-4) While gradle is syncing, a dialog will popup to change path of SDK. Just click on 'OK' and the path will be changed automatically and project will sync with your localised Android SDK.
+
+B1-5) After project completes gradle sync and indexing and importing, click on Run > Run 'app'.
 
 B2) Open project from inside Android Studio where other project is already loaded.
-    B2-1) Open Android Studio.
-    B2-2) Click on File > New > Project from Version Control. Select 'Git' from dropdown, Enter Git URL (https://github.com/sidthakkar12/TicTacToe.git), Select directory path you want to store your project to.
-    B2-3) Android Studio will download necessary gradle files required to run the app.
-    B2-4) While gradle is syncing, a dialog will popup to change path of SDK. Just click on 'OK' and the path will be changed automatically and project will sync with your localised Android SDK.
-    B2-5) After project completes gradle sync and indexing and importing, click on Run > Run 'app'.
+
+B2-1) Open Android Studio.
+
+B2-2) Click on File > New > Project from Version Control. Select 'Git' from dropdown, Enter Git URL (https://github.com/sidthakkar12/TicTacToe.git), Select directory path you want to store your project to.
+
+B2-3) Android Studio will download necessary gradle files required to run the app.
+
+B2-4) While gradle is syncing, a dialog will popup to change path of SDK. Just click on 'OK' and the path will be changed automatically and project will sync with your localised Android SDK.
+
+B2-5) After project completes gradle sync and indexing and importing, click on Run > Run 'app'.
 
 Project will run and app will be installed in device.
 
