@@ -1,4 +1,4 @@
-[![Home-Screen.png](https://i.postimg.cc/LXSJ0yvX/Home-Screen.png)](https://postimg.cc/Lqy4J3cK)
+[![Home-Screen.png](https://i.postimg.cc/LXSJ0yvX/Home-Screen.png)](https://postimg.cc/Lqy4J3cK)  [![Game-Board.png](https://i.postimg.cc/76Lk60Z9/Game-Board.png)](https://postimg.cc/3yz6fyp0)  [![Result.png](https://i.postimg.cc/VvQPFTFG/Result.png)](https://postimg.cc/cgmzxF2w)
 
 
 ### Steps to run in Android Studio:
