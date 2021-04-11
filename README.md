@@ -71,7 +71,7 @@ Project will run and app will be installed in device.
 6) To play a turn, player needs to tap on any grid cell.
 7) The board will be updated for both players after each turn.
 8) Player can quit the game in-between.
-9) To quit the game, players needs to click on icon at top-right of the screen or back button from the device. A confirmation will popup before player quits the game.
+9) To quit the game, player needs to click on icon at top-right of the screen or back button from the device. A confirmation will popup before player quits the game.
 10) The game has 3 possible results: Win/Lose/Draw.
 11) As and when the game is completed, players will get a popup appropriate to the Winning player and Losing player.
 12) App will show popup to both the users even if the game is drawn.
@@ -83,7 +83,7 @@ Project will run and app will be installed in device.
 
 ### Add Ons:
 
-1) In solution for Bug 1, we can create a socket that will be emitted from app itself, and will notify first player that no other player is available to play the game. 
+1) In solution for Flea 1, we can create a socket that will be emitted from app itself, and will notify first player that no other player is available to play the game. 
 
 2) We can ask for second player's confirmation to start the game and keep the first player on waiting mode, or ask to tap again on 'Play' to 'Retry' or 'Find other opponent'.
 
