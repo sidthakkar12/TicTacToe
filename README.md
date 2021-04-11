@@ -4,16 +4,16 @@
 
 A) Open project locally.
 	A1) Open project from Welcome screen of Android Studio:
-		A1-1) Open Android Studio.
-		A1-2) On Welcome screen, Click on File > "Open an Existing Project", and go the the folder where project is located and click on it.
-		A1-3) While gradle is syncing, a dialog will popup to change path of SDK. Just click on "OK" and the path will be changed automatically and project will sync with your localised Android SDK.
-		A1-4) After project completes gradle sync and indexing and importing, click on Run > Run "app".
+	A1-1) Open Android Studio.
+	A1-2) On Welcome screen, Click on File > "Open an Existing Project", and go the the folder where project is located and click on it.
+	A1-3) While gradle is syncing, a dialog will popup to change path of SDK. Just click on "OK" and the path will be changed automatically and project will sync with your localised Android SDK.
+	A1-4) After project completes gradle sync and indexing and importing, click on Run > Run "app".
 
 	A2) Open project from inside Android Studio where other project is already loaded.
-		A2-1) Open Android Studio.
-		A2-2) Click on File > Open, and go the the folder where project is located and click on it.
-		A2-3) While gradle is syncing, a dialog will popup to change path of SDK. Just click on 'OK' and the path will be changed automatically and project will sync with your localised Android SDK.
-		A2-4) After project completes gradle sync and indexing and importing, click on Run > Run 'app'.
+	A2-1) Open Android Studio.
+	A2-2) Click on File > Open, and go the the folder where project is located and click on it.
+	A2-3) While gradle is syncing, a dialog will popup to change path of SDK. Just click on 'OK' and the path will be changed automatically and project will sync with your localised Android SDK.
+	A2-4) After project completes gradle sync and indexing and importing, click on Run > Run 'app'.
 
 B) Open project from Github:
 	B1) Open project from Welcome screen of Android Studio:
