@@ -1,3 +1,6 @@
+![Image of Home Screen](/home/hb-android/Desktop/Sid/RyuGames/Files/Screenshots/Home Screen.png)
+
+
 ### Steps to run in Android Studio:
 
 ### Below are 2 ways to open project locally or from Github:
