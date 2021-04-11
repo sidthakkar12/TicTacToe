@@ -74,7 +74,7 @@ Project will run and app will be installed in device.
 9) To quit the game, player needs to click on icon at top-right of the screen or back button from the device. A confirmation will popup before player quits the game.
 10) The game has 3 possible results: Win/Lose/Draw.
 11) As and when the game is completed, players will get a popup appropriate to the Winning player and Losing player.
-12) App will show popup to both the users even if the game is drawn.
+12) App will show popup to both the players even if the game is drawn.
 13) Players can tap on Play Again / Try Again to play the game again with the opponent player.
 
 ### Flea:
